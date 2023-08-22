@@ -47,7 +47,6 @@
 }
 .gesturedrawing-image {
   width: 60;
-  height: 60;
   object-fit: cover;
   text-decoration: none;
 }
@@ -57,4 +56,7 @@
 .gesturedrawing-root-class-name1 {
   height: 700px;
   align-self: center;
+}
+.gesturedrawing-root-class-name2 {
+  height: 500px;
 }

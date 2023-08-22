@@ -36,6 +36,7 @@
 .tbdne-container1 {
   flex: 0 0 auto;
   width: 100%;
+  height: 60px;
   display: flex;
   column-gap: var(--dl-space-space-fiveunits);
   align-items: center;
@@ -53,6 +54,9 @@
   height: 500px;
 }
 .tbdne-root-class-name1 {
+  height: 500px;
+}
+.tbdne-root-class-name2 {
   height: 500px;
 }
 
@@ -94,6 +98,7 @@
 .posetransfer-container1 {
   flex: 0 0 auto;
   width: 100%;
+  height: 60px;
   display: flex;
   column-gap: var(--dl-space-space-fiveunits);
   align-items: center;
@@ -104,6 +109,7 @@
 }
 .posetransfer-image {
   width: 60;
+  height: 60px;
   object-fit: cover;
   text-decoration: none;
 }
@@ -112,11 +118,14 @@
 }
 .posetransfer-image1 {
   width: 60;
-  height: 60;
+  height: 60px;
   object-fit: cover;
   text-decoration: none;
 }
 
+.posetransfer-root-class-name1 {
+  height: 500px;
+}
 
 .posetransfer-root-class-name3 {
   height: 500px;
@@ -161,6 +170,7 @@
 .imagesegmentation-container1 {
   flex: 0 0 auto;
   width: 100%;
+  height: 60px;
   display: flex;
   column-gap: var(--dl-space-space-fiveunits);
   align-items: center;
@@ -171,7 +181,6 @@
 }
 .imagesegmentation-image {
   width: 60;
-  height: 60;
   object-fit: cover;
   text-decoration: none;
 }
@@ -180,6 +189,9 @@
 }
 .imagesegmentation-root-class-name1 {
   height: 700px;
+}
+.imagesegmentation-root-class-name2 {
+  height: 500px;
 }
 
 .connectivia-blog-post-card {
@@ -217,17 +229,10 @@
   font-weight: 400;
   margin-bottom: 32px;
 }
-.connectivia-container1 {
-  flex: 0 0 auto;
-  width: 100%;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  height: 100px;
-  display: flex;
-  column-gap: var(--dl-space-space-fiveunits);
-  align-items: center;
-  justify-content: flex-start;
-}
 .connectivia-root-class-name {
+  height: 500px;
+}
+.connectivia-root-class-name1 {
   height: 500px;
 }
 
@@ -266,20 +271,13 @@
   font-weight: 400;
   margin-bottom: 32px;
 }
-.workoutbuddy-container1 {
-  flex: 0 0 auto;
-  width: 100%;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  height: 100px;
-  display: flex;
-  column-gap: var(--dl-space-space-fiveunits);
-  align-items: center;
-  justify-content: flex-start;
-}
 .workoutbuddy-root-class-name {
   height: 500px;
 }
 .workoutbuddy-root-class-name1 {
+  height: 500px;
+}
+.workoutbuddy-root-class-name2 {
   height: 500px;
 }
 
@@ -321,6 +319,7 @@
 .gesturedrawing-container1 {
   flex: 0 0 auto;
   width: 100%;
+  height: 60px;
   display: flex;
   column-gap: var(--dl-space-space-fiveunits);
   align-items: center;
@@ -331,7 +330,6 @@
 }
 .gesturedrawing-image {
   width: 60;
-  height: 60;
   object-fit: cover;
   text-decoration: none;
 }
@@ -342,8 +340,11 @@
   height: 700px;
   align-self: center;
 }
+.gesturedrawing-root-class-name2 {
+  height: 500px;
+}
 
-.software-engineering-container {
+.software-container {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -352,7 +353,7 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.software-engineering-container01 {
+.software-container01 {
   flex: 0 0 auto;
   width: 100%;
   display: flex;
@@ -360,7 +361,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.software-engineering-container02 {
+.software-container02 {
   flex: 0 0 auto;
   width: 548px;
   height: 100px;
@@ -369,11 +370,17 @@
   flex-direction: column;
   justify-content: center;
 }
-.software-engineering-text {
-  width: 287px;
-  height: 54px;
+.software-text {
+  color: var(--dl-color-gray-700);
+  width: 456px;
+  height: 79px;
+  font-size: 50px;
+  font-style: normal;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 900;
 }
-.software-engineering-container03 {
+.software-container03 {
   gap: var(--dl-space-space-tenunits);
   flex: 0 0 auto;
   width: 100%;
@@ -382,24 +389,30 @@
   flex-direction: row;
   justify-content: center;
 }
-.software-engineering-image {
+.software-image {
   width: 262px;
   height: 240px;
   object-fit: cover;
-  border-color: var(--dl-color-gray-black);
-  border-width: 5px;
 }
-.software-engineering-text04 {
+.software-text04 {
   width: 60%;
 }
-.software-engineering-container04 {
+.software-text10 {
+  color: var(--dl-color-gray-700);
+  font-size: 50px;
+  font-style: normal;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 900;
+}
+.software-container04 {
   flex: 0 0 auto;
   width: auto;
   display: flex;
   align-items: flex-start;
   flex-direction: column;
 }
-.software-engineering-blog {
+.software-blog {
   width: 100%;
   display: flex;
   padding: 48px;
@@ -407,26 +420,32 @@
   align-items: center;
   justify-content: space-between;
 }
-.software-engineering-container05 {
+.software-container05 {
   height: max-content;
   display: flex;
   align-items: center;
+  border-color: var(--dl-color-gray-700);
+  border-width: 5px;
   margin-right: 32px;
   justify-content: space-between;
 }
-.software-engineering-container06 {
+.software-container06 {
   height: min-content;
   display: flex;
   align-items: center;
+  border-color: var(--dl-color-gray-700);
+  border-width: 5px;
   margin-right: 32px;
   justify-content: center;
 }
-.software-engineering-container07 {
+.software-container07 {
   display: flex;
   align-items: center;
+  border-color: var(--dl-color-gray-700);
+  border-width: 5px;
   justify-content: space-between;
 }
-.software-engineering-blog1 {
+.software-blog1 {
   width: 100%;
   display: flex;
   padding: 48px;
@@ -434,67 +453,73 @@
   align-items: center;
   justify-content: space-between;
 }
-.software-engineering-container08 {
+.software-container08 {
   height: max-content;
   display: flex;
   align-items: center;
+  border-color: var(--dl-color-gray-700);
+  border-width: 5px;
   margin-right: 32px;
   justify-content: space-between;
 }
-.software-engineering-container09 {
+.software-container09 {
   height: min-content;
   display: flex;
   align-items: center;
+  border-color: var(--dl-color-gray-700);
+  border-width: 5px;
   margin-right: 32px;
   justify-content: center;
 }
-.software-engineering-container10 {
+.software-container10 {
   display: flex;
   align-items: center;
+  border-color: var(--dl-color-gray-700);
+  border-width: 5px;
   justify-content: space-between;
 }
 @media(max-width: 991px) {
-  .software-engineering-blog {
+  .software-blog {
     flex-direction: column;
   }
-  .software-engineering-container05 {
+  .software-container05 {
     margin-right: 0px;
     margin-bottom: 48px;
   }
-  .software-engineering-container06 {
+  .software-container06 {
     margin-right: 0px;
     margin-bottom: 48px;
   }
-  .software-engineering-blog1 {
+  .software-blog1 {
     flex-direction: column;
   }
-  .software-engineering-container08 {
+  .software-container08 {
     margin-right: 0px;
     margin-bottom: 48px;
   }
-  .software-engineering-container09 {
+  .software-container09 {
     margin-right: 0px;
     margin-bottom: 48px;
   }
 }
 @media(max-width: 767px) {
-  .software-engineering-blog {
+  .software-blog {
     padding-left: 32px;
     padding-right: 32px;
   }
-  .software-engineering-blog1 {
+  .software-blog1 {
     padding-left: 32px;
     padding-right: 32px;
   }
 }
 @media(max-width: 479px) {
-  .software-engineering-blog {
+  .software-blog {
     padding-top: 32px;
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
     padding-bottom: 32px;
   }
-  .software-engineering-blog1 {
+  .software-blog1 {
     padding-top: 32px;
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
