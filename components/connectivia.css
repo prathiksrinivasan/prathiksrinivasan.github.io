@@ -1,0 +1,48 @@
+.connectivia-blog-post-card {
+  width: 100%;
+  display: flex;
+  overflow: hidden;
+  max-width: 1400px;
+  box-shadow: 5px 5px 10px 0px rgba(18, 18, 18, 0.1);
+  transition: 0.3s;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.connectivia-blog-post-card:hover {
+  transform: scale(1.02);
+}
+.connectivia-container {
+  display: flex;
+  padding: 32px;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.connectivia-text {
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin-bottom: var(--dl-space-space-doubleunit);
+}
+.connectivia-text1 {
+  font-style: italic;
+  margin-bottom: var(--dl-space-space-doubleunit);
+}
+.connectivia-text2 {
+  color: var(--dl-color-gray-500);
+  font-weight: 400;
+  margin-bottom: 32px;
+}
+.connectivia-container1 {
+  flex: 0 0 auto;
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 100px;
+  display: flex;
+  column-gap: var(--dl-space-space-fiveunits);
+  align-items: center;
+  justify-content: flex-start;
+}
+.connectivia-root-class-name {
+  height: 500px;
+}
