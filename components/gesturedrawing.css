@@ -46,7 +46,7 @@
   display: contents;
 }
 .gesturedrawing-image {
-  width: 60;
+  width: 60px;
   object-fit: cover;
   text-decoration: none;
 }
@@ -56,7 +56,4 @@
 .gesturedrawing-root-class-name1 {
   height: 700px;
   align-self: center;
-}
-.gesturedrawing-root-class-name2 {
-  height: 500px;
 }

@@ -56,9 +56,11 @@
 .tbdne-root-class-name1 {
   height: 500px;
 }
-.tbdne-root-class-name2 {
-  height: 500px;
-}
+
+
+
+
+
 
 .posetransfer-blog-post-card {
   width: 100%;
@@ -123,9 +125,6 @@
   text-decoration: none;
 }
 
-.posetransfer-root-class-name1 {
-  height: 500px;
-}
 
 .posetransfer-root-class-name3 {
   height: 500px;
@@ -180,7 +179,7 @@
   display: contents;
 }
 .imagesegmentation-image {
-  width: 60;
+  width: 60px;
   object-fit: cover;
   text-decoration: none;
 }
@@ -189,9 +188,6 @@
 }
 .imagesegmentation-root-class-name1 {
   height: 700px;
-}
-.imagesegmentation-root-class-name2 {
-  height: 500px;
 }
 
 .connectivia-blog-post-card {
@@ -230,9 +226,6 @@
   margin-bottom: 32px;
 }
 .connectivia-root-class-name {
-  height: 500px;
-}
-.connectivia-root-class-name1 {
   height: 500px;
 }
 
@@ -275,9 +268,6 @@
   height: 500px;
 }
 .workoutbuddy-root-class-name1 {
-  height: 500px;
-}
-.workoutbuddy-root-class-name2 {
   height: 500px;
 }
 
@@ -329,7 +319,7 @@
   display: contents;
 }
 .gesturedrawing-image {
-  width: 60;
+  width: 60px;
   object-fit: cover;
   text-decoration: none;
 }
@@ -339,9 +329,6 @@
 .gesturedrawing-root-class-name1 {
   height: 700px;
   align-self: center;
-}
-.gesturedrawing-root-class-name2 {
-  height: 500px;
 }
 
 .software-container {

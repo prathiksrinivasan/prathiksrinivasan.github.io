@@ -46,7 +46,7 @@
   display: contents;
 }
 .imagesegmentation-image {
-  width: 60;
+  width: 60px;
   object-fit: cover;
   text-decoration: none;
 }
@@ -55,7 +55,4 @@
 }
 .imagesegmentation-root-class-name1 {
   height: 700px;
-}
-.imagesegmentation-root-class-name2 {
-  height: 500px;
 }
