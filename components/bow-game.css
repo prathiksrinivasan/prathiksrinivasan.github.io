@@ -10,15 +10,20 @@
 .bow-game-container1 {
   gap: var(--dl-space-space-doubleunit);
   flex: 1;
+  margin: var(--dl-space-space-doubleunit);
   display: flex;
   align-self: stretch;
   margin-top: var(--dl-space-space-unit);
+  transition: 0.3s;
   align-items: center;
   margin-left: var(--dl-space-space-unit);
   margin-right: var(--dl-space-space-unit);
   margin-bottom: var(--dl-space-space-unit);
   flex-direction: column;
   justify-content: center;
+}
+.bow-game-container1:hover {
+  transform: scale(1.02);
 }
 .bow-game-text {
   color: var(--dl-color-gray-700);
