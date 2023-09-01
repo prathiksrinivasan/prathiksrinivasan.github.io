@@ -80,6 +80,7 @@
 .tbdne2b-container5 {
   gap: var(--dl-space-space-doubleunit);
   flex: 0 0 auto;
+  width: 50%;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -97,13 +98,19 @@
   flex-direction: column;
 }
 .tbdne2b-image2 {
-  flex: 1;
-  height: 300px;
-  align-self: center;
-  object-fit: inherit;
+  width: 400px;
+  object-fit: cover;
 }
 .tbdne2b-text13 {
   align-self: center;
 }
 
 
+@media(max-width: 767px) {
+  .tbdne2b-container3 {
+    width: 100%;
+  }
+  .tbdne2b-container5 {
+    display: none;
+  }
+}

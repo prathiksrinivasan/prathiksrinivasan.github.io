@@ -71,6 +71,7 @@
 .bow-gameb-container5 {
   gap: var(--dl-space-space-fiveunits);
   flex: 0 0 auto;
+  width: 50%;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -81,3 +82,11 @@
   height: 300px;
 }
 
+@media(max-width: 767px) {
+  .bow-gameb-container3 {
+    width: 100%;
+  }
+  .bow-gameb-container5 {
+    display: none;
+  }
+}

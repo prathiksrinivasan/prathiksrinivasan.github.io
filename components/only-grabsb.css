@@ -79,7 +79,7 @@
 }
 .only-grabsb-container5 {
   flex: 0 0 auto;
-  width: auto;
+  width: 50%;
   height: auto;
   display: flex;
   align-items: space-between;
@@ -88,6 +88,7 @@
 .only-grabsb-container6 {
   gap: var(--dl-space-space-fiveunits);
   flex: 0 0 auto;
+  width: auto;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -109,4 +110,16 @@
   width: 50%;
   object-fit: cover;
 }
-
+.only-grabsb-root-class-name {
+  flex: 1;
+  width: auto;
+  height: auto;
+}
+@media(max-width: 767px) {
+  .only-grabsb-container3 {
+    width: 100%;
+  }
+  .only-grabsb-container5 {
+    display: none;
+  }
+}

@@ -80,6 +80,7 @@
 .rush-rush-vrb-container5 {
   gap: var(--dl-space-space-fiveunits);
   flex: 0 0 auto;
+  width: 50%;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -94,3 +95,11 @@
   object-fit: cover;
 }
 
+@media(max-width: 767px) {
+  .rush-rush-vrb-container3 {
+    width: 100%;
+  }
+  .rush-rush-vrb-container5 {
+    display: none;
+  }
+}
