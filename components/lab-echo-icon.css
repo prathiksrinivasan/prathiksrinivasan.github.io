@@ -1,4 +1,4 @@
-.lab-echo-container {
+.lab-echo-icon-container {
   width: 100%;
   height: 400px;
   display: flex;
@@ -7,7 +7,7 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.lab-echo-container1 {
+.lab-echo-icon-container1 {
   gap: var(--dl-space-space-doubleunit);
   flex: 1;
   margin: var(--dl-space-space-doubleunit);
@@ -22,10 +22,10 @@
   flex-direction: column;
   justify-content: center;
 }
-.lab-echo-container1:hover {
+.lab-echo-icon-container1:hover {
   transform: scale(1.02);
 }
-.lab-echo-text {
+.lab-echo-icon-text {
   color: var(--dl-color-gray-700);
   align-self: center;
   font-style: normal;
@@ -33,16 +33,14 @@
   font-family: Nunito;
   font-weight: 900;
 }
-.lab-echo-text1 {
+.lab-echo-icon-text1 {
   align-self: center;
   text-align: center;
 }
-.lab-echo-image {
+.lab-echo-icon-image {
   flex: 1;
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
-.lab-echo-root-class-name {
-  height: 350px;
-}
+

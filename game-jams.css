@@ -42,12 +42,10 @@
   height: 100%;
   object-fit: cover;
 }
-.only-grabs-icon-root-class-name {
-  height: 350px;
-}
 .only-grabs-icon-root-class-name1 {
   height: 350px;
 }
+
 
 .only-grabsb-container {
   width: 100%;
@@ -397,12 +395,10 @@
   align-self: center;
   object-fit: cover;
 }
-.bow-game-icon-root-class-name {
-  height: 350px;
-}
 .bow-game-icon-root-class-name1 {
   height: 350px;
 }
+
 
 .bow-gameb-container {
   width: 100%;
