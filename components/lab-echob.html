@@ -1,68 +1,235 @@
-<div>
-  <link href="./lab-echob.css" rel="stylesheet" />
-  <div class="lab-echob-container">
-    <div class="lab-echob-container1">
-      <div class="lab-echob-container2">
-        <div class="lab-echob-container3">
-          <div class="lab-echob-container4">
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Portfolio Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <meta property="twitter:card" content="summary_large_image" />
+
+    <style data-tag="reset-style-sheet">
+      html {  line-height: 1.15;}body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] {  -webkit-appearance: button;}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}html { scroll-behavior: smooth  }
+    </style>
+    <style data-tag="default-style-sheet">
+      html {
+        font-family: Arial;
+        font-size: 16px;
+      }
+
+      body {
+        font-weight: 400;
+        font-style:normal;
+        text-decoration: none;
+        text-transform: none;
+        letter-spacing: normal;
+        line-height: 1.55;
+        color: var(--dl-color-gray-black);
+        background-color: var(--dl-color-gray-white);
+
+      }
+    </style>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+  </head>
+  <body>
+    <link rel="stylesheet" href="../style.css" />
+    <div>
+      <link href="./lab-echob.css" rel="stylesheet" />
+      <div class="lab-echob-container">
+        <div class="lab-echob-container01">
+          <div class="lab-echob-container02">
             <h1 class="lab-echob-text"><span>Lab Echo</span></h1>
             <span class="lab-echob-text01">
-              <span>Unreal Engine 5, Blueprints, C++</span>
+              <span>Project Roles: Game Design Lead, Gameplay Programmer</span>
             </span>
+          </div>
+          <div class="lab-echob-container03">
             <span class="lab-echob-text02">
               <span>
-                Lab Echo is a narrative-focused adventure and puzzle solving
-                game, where players are tasked with solving the mystery behind
-                the abandoned lab they find themselves in. This project was
-                created over the course of 4 months as a capstone project, with
-                a team of 7.
+                <span>
+                  Lab Echo is a narrative puzzle game that is playable on
+                  Windows, Mac, and Oculus Quest 2. It was created as a
+                  semester-long project with a team of 7 developers, using
+                  Unreal Engine 5 and a combination of C++ and Blueprint
+                  scripting. I was the game design lead for the project,
+                  responsible for system design, level design, and the game's
+                  narrative.
+                </span>
               </span>
+              <br />
             </span>
-            <h2 class="lab-echob-text03">
+          </div>
+          <div class="lab-echob-container04">
+            <iframe
+              src="https://www.youtube.com/embed/fK8v4-n66fE?si=kAZwGW7lfJC4tgG0"
+              class="lab-echob-iframe"
+            ></iframe>
+            <div class="lab-echob-container05">
+              <h1 class="lab-echob-text05"><span>Game Trailer</span></h1>
+              <div class="lab-echob-container06">
+                <div class="lab-echob-container07">
+                  <a
+                    href="https://spooncats.itch.io/lab-echo"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    class="lab-echob-link"
+                  >
+                    <img
+                      alt="image"
+                      src="public/itchio-textless-white.svg"
+                      class="lab-echob-image"
+                    />
+                  </a>
+                </div>
+                <span class="lab-echob-text06">
+                  <span>Download on itch.io!</span>
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="lab-echob-container08">
+            <h1 class="lab-echob-text07">
               <span>Project Responsibilities</span>
-            </h2>
-            <span class="lab-echob-text04">
+            </h1>
+            <span class="lab-echob-text08">
+              <span class="lab-echob-text09"><span>System Design</span></span>
               <span>
-                - Conceptualized and refined overall game design and mechanics,
-                including secondary puzzle system
+                <span>
+                  - I designed the core gameplay systems of the game, taking
+                  inspiration from titles such as
+                </span>
+              </span>
+              <span class="lab-echob-text11">
+                <span>Return of the Obra Dinn</span>
+              </span>
+              <span><span>and</span></span>
+              <span class="lab-echob-text13">
+                <span>Case of the Golden Idol&nbsp;</span>
+              </span>
+              <span>
+                <span>
+                  to create puzzles based around exploration and deductive
+                  reasoning. I also designed and programmed a secondary puzzle
+                  system inspired by binary sudoku puzzles to serve as a gap
+                  between narrative segments.
+                </span>
               </span>
               <br />
-              <span>- Developed level layouts and puzzle structure</span>
               <br />
+              <span class="lab-echob-text17"><span>Level Design</span></span>
+              <span class="lab-echob-text18"><span></span></span>
               <span>
-                - Conducted playtests and refined content based on feedback and
-                observations
+                <span>
+                  - I conceptualized 3 connected level layouts that used
+                  environmental storytelling to create a puzzle for the player.
+                  By reverse-engineering the order of events and using locations
+                  of props as context, the player could solve each narrative
+                  puzzle.
+                </span>
               </span>
               <br />
+              <br />
+              <span class="lab-echob-text22">
+                <span>Narrative Design&nbsp;</span>
+              </span>
               <span>
-                - Created game narrative and integrated with puzzle elements
+                <span>
+                  - I wrote the dialogue and overarching plot of the game,
+                  breaking down different segments of the narrative into scenes
+                  that could be explored in puzzles to gradually understand the
+                  mystery.
+                </span>
               </span>
               <br />
-              <span>- Created game trailer</span>
+              <br />
+              <span class="lab-echob-text26">
+                <span>Organizing Playtests&nbsp;</span>
+              </span>
+              <span>
+                <span>
+                  - I organized and collected feedback from weekly playtests to
+                  create improvements to player control, UI, puzzle structure,
+                  and narrative.
+                </span>
+              </span>
               <br />
             </span>
-            <a
-              href="https://spooncats.itch.io/lab-echo"
-              target="_blank"
-              rel="noreferrer noopener"
-              class="lab-echob-link"
-            >
+          </div>
+          <div class="lab-echob-container09">
+            <div class="lab-echob-container10">
               <img
                 alt="image"
-                src="public/itchio-textless-white.svg"
-                class="lab-echob-image"
+                src="https://media.discordapp.net/attachments/705948050144886795/1156330599259308072/image.png?ex=6514944a&amp;is=651342ca&amp;hm=672a7e54a0b1a0bfeb7f230485a77d1072fa1221e331ac04a2a9cca6de98c846&amp;=&amp;width=790&amp;height=563"
+                class="lab-echob-image1"
               />
-            </a>
+              <img
+                alt="image"
+                src="https://media.discordapp.net/attachments/705948050144886795/1156331297413795840/image.png?ex=651494f0&amp;is=65134370&amp;hm=3ec370dc895be4b4a26ac2312f1b87a5ea312d7d24142bb1ad4612bd6d503522&amp;=&amp;width=555&amp;height=575"
+                class="lab-echob-image2"
+              />
+            </div>
+            <span class="lab-echob-text29">
+              <span>First Level Layout and Associated Props</span>
+            </span>
           </div>
-        </div>
-        <div class="lab-echob-container5">
-          <iframe
-            src="https://www.youtube.com/embed/fK8v4-n66fE?si=IxZ2NYMg0986KqES"
-            allowfullscreen
-            class="lab-echob-iframe"
-          ></iframe>
+          <div class="lab-echob-container11">
+            <h1 class="lab-echob-text30">
+              <span>Feedback and Lessons Learned</span>
+            </h1>
+            <span class="lab-echob-text31">
+              <span>
+                <span>
+                  • Designers and Gameplay Programmers should communicate very
+                  often to ensure that crucial features for different stages of
+                  development are being prioritized properly. We ran into
+                  miscommunications after certain design changes where
+                  unimportant or removed mechanics were still being worked on by
+                  programmers.
+                </span>
+              </span>
+              <br />
+              <br />
+              <span>
+                <span>
+                  • Vertical slice prototype should include a basic version of
+                </span>
+              </span>
+              <span class="lab-echob-text36"><span>all</span></span>
+              <span>
+                <span>
+                  features to ensure that the gameplay flow can be properly
+                  understood and limit scope creep later.
+                </span>
+              </span>
+              <br />
+              <br />
+              <span>
+                <span>
+                  • Sometimes the feedback from playtests comes from a place of
+                  unfamiliarity with genre norms, especially for niche genres.
+                  It's the job of the designer to understand the underlying
+                  issue behind the feedback and create a solution, rather than
+                  applying a band-aid to the complaint.
+                </span>
+              </span>
+              <br />
+            </span>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-</div>
+    <script src="https://unpkg.com/@teleporthq/teleport-custom-scripts"></script>
+  </body>
+</html>
