@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on Prathik Srinivasan Portfolio</title>
+    <link>http://localhost:1313/tags/data-science/</link>
+    <description>Recent content in Data Science on Prathik Srinivasan Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Jun 2023 09:03:08 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This [blank] Does Not Exist</title>
+      <link>http://localhost:1313/blog/tbdne/</link>
+      <pubDate>Thu, 29 Jun 2023 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/tbdne/</guid>
+      <description>&lt;p&gt;In my 2023 Summer Internship with Retora Games, I helped create a wordle-like daily puzzle game using Unity and C#.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crop Prediction Model</title>
+      <link>http://localhost:1313/blog/cropprediction/</link>
+      <pubDate>Fri, 13 Aug 2021 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/cropprediction/</guid>
+      <description>&lt;p&gt;In my 2022 Summer Internship with Connectivia Labs, I created a Machine Learning model to predict the ideal crop given a collection of climate and environmental data.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

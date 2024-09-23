@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Design on Prathik Srinivasan Portfolio</title>
+    <link>http://localhost:1313/categories/game-design/</link>
+    <description>Recent content in Game Design on Prathik Srinivasan Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Apr 2024 09:03:08 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/game-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2XKO Moveset Design - Skarner</title>
+      <link>http://localhost:1313/blog/2xkoskarner/</link>
+      <pubDate>Mon, 08 Apr 2024 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/2xkoskarner/</guid>
+      <description>&lt;p&gt;I won first place in the 2XKO community character design contest with my fan-made moveset concept based on the recently reworked Skarner.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RushRushVR</title>
+      <link>http://localhost:1313/blog/rushrushvr/</link>
+      <pubDate>Fri, 12 May 2023 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/rushrushvr/</guid>
+      <description>&lt;p&gt;For the final project of my VR Game Development course, I teamed up with several developers to create a small VR microgame collection.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BitBoxers</title>
+      <link>http://localhost:1313/blog/bitboxers/</link>
+      <pubDate>Sun, 22 May 2022 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/bitboxers/</guid>
+      <description>&lt;p&gt;For my computer engineering capstone project, I worked with a team to create an arcade fighting game, but with a major twist - the combat was turn based.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OnlyGrabs</title>
+      <link>http://localhost:1313/blog/onlygrabs/</link>
+      <pubDate>Wed, 01 Dec 2021 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/onlygrabs/</guid>
+      <description>&lt;p&gt;For my Game Prototyping course&amp;rsquo;s final project, I designed and developed a combat system for a fighting game where grabs are the only form of attacking.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

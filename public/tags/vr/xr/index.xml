@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VR/XR on Prathik Srinivasan Portfolio</title>
+    <link>http://localhost:1313/tags/vr/xr/</link>
+    <description>Recent content in VR/XR on Prathik Srinivasan Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 May 2023 09:03:08 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/vr/xr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RushRushVR</title>
+      <link>http://localhost:1313/blog/rushrushvr/</link>
+      <pubDate>Fri, 12 May 2023 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/rushrushvr/</guid>
+      <description>&lt;p&gt;For the final project of my VR Game Development course, I teamed up with several developers to create a small VR microgame collection.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

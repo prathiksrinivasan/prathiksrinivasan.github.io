@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unity on Prathik Srinivasan Portfolio</title>
+    <link>http://localhost:1313/tags/unity/</link>
+    <description>Recent content in Unity on Prathik Srinivasan Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Nov 2023 09:03:08 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ariadne`s Thread</title>
+      <link>http://localhost:1313/blog/ariadnesthread/</link>
+      <pubDate>Sun, 19 Nov 2023 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/ariadnesthread/</guid>
+      <description>&lt;p&gt;I worked with a as the Programming Lead on a team with 20+ other developers as part of UIUC GameBuilders, creating a procedurally generated horror game over the course of a semester.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>This [blank] Does Not Exist</title>
+      <link>http://localhost:1313/blog/tbdne/</link>
+      <pubDate>Thu, 29 Jun 2023 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/tbdne/</guid>
+      <description>&lt;p&gt;In my 2023 Summer Internship with Retora Games, I helped create a wordle-like daily puzzle game using Unity and C#.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RushRushVR</title>
+      <link>http://localhost:1313/blog/rushrushvr/</link>
+      <pubDate>Fri, 12 May 2023 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/rushrushvr/</guid>
+      <description>&lt;p&gt;For the final project of my VR Game Development course, I teamed up with several developers to create a small VR microgame collection.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OnlyGrabs</title>
+      <link>http://localhost:1313/blog/onlygrabs/</link>
+      <pubDate>Wed, 01 Dec 2021 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/onlygrabs/</guid>
+      <description>&lt;p&gt;For my Game Prototyping course&amp;rsquo;s final project, I designed and developed a combat system for a fighting game where grabs are the only form of attacking.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

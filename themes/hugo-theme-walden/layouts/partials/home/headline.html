@@ -1,0 +1,8 @@
+{{ range first 1 (where .Site.RegularPages "Params.series" "resume")  }}
+    <div class="headline" style="background:url(/about/headline.jpg) center center no-repeat;">
+        <div class="headline-text">
+            <a href="{{ .Permalink }}">{{ .Params.title }}</a>
+            <p>{{ .Summary }}</p>
+        </div>
+    </div>
+{{ end }}

@@ -1,0 +1,22 @@
+
+{{ range first 6 (where .Site.RegularPages "Params.series" "headline") }}
+<div class="card-container">
+    <div class="card-headline">
+        <div class="card-headline-thumbnail">
+            {{ with .Resources.Get "thumbnail.png" }}
+                <img src="{{ .RelPermalink }}" alt="Thumbnail" >
+            {{ else }}
+                <img src="{{ "images/headline.jpg" | relURL }}" alt="Thumbnail">
+            {{ end }}
+            </div>
+        
+            <div class="card-headline-content">
+                <div class="card-headline-category">{{.Params.categories}}</div>
+                <a class="card-headline-title" href="{{ .Permalink }}">{{ .Params.title }}</a>
+                <a class="card-headline-summary" href="{{ .Permalink }}">{{.Summary}}</a>
+            </div>
+    </div>
+</div>
+{{ end }}
+
+

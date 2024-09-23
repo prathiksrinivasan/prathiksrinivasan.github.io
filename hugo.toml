@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Prathik Srinivasan Portfolio'
+theme = 'hugo-theme-walden'
+[markup.goldmark.renderer]
+unsafe= true

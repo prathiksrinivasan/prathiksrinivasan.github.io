@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Design, Game Programming on My New Hugo Site</title>
+    <link>http://localhost:1313/categories/game-design-game-programming/</link>
+    <description>Recent content in Game Design, Game Programming on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 May 2022 09:03:08 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/game-design-game-programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BitBoxers</title>
+      <link>http://localhost:1313/blog/bitboxers/</link>
+      <pubDate>Sun, 22 May 2022 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/bitboxers/</guid>
+      <description>&lt;p&gt;For my computer engineering capstone project, I worked with a team to create a local wireless arcade fighting game, but with a major twist - the combat was turn based. I designed the core game mechanics, and was responsible for programming the general game loop&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

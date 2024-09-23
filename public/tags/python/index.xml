@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Prathik Srinivasan Portfolio</title>
+    <link>http://localhost:1313/tags/python/</link>
+    <description>Recent content in Python on Prathik Srinivasan Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jul 2024 09:03:08 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brunswick - CES Interactive Simulations</title>
+      <link>http://localhost:1313/blog/ces2025/</link>
+      <pubDate>Sun, 21 Jul 2024 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/ces2025/</guid>
+      <description>&lt;p&gt;In my internship and co-op at Brunwick&amp;rsquo;s BI (Boating Intelligence) Design Lab, I helped create two interactive simulations for CES 2025 that showcased the company&amp;rsquo;s future endeavors.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crop Prediction Model</title>
+      <link>http://localhost:1313/blog/cropprediction/</link>
+      <pubDate>Fri, 13 Aug 2021 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/cropprediction/</guid>
+      <description>&lt;p&gt;In my 2022 Summer Internship with Connectivia Labs, I created a Machine Learning model to predict the ideal crop given a collection of climate and environmental data.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

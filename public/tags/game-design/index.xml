@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Design on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/game-design/</link>
+    <description>Recent content in Game Design on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 May 2023 09:03:08 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/game-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RushRushVR</title>
+      <link>http://localhost:1313/blog/rushrushvr/</link>
+      <pubDate>Fri, 12 May 2023 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/rushrushvr/</guid>
+      <description>&lt;p&gt;For the final project of my VR Game Development course, I teamed up with several developers to create a small VR microgame collection. I was fully responsible for the programming and design of two microgames, as well as the overall design philosophy and game loop.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

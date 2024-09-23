@@ -1,0 +1,20 @@
+<article class="blog-post">
+    <div class="blog-post-title">
+        <h1>{{.Title}}</h1>
+        <div class="blog-post-meta">
+            <span>
+                <i class="bi bi-calendar3"></i>
+                {{.Date.Format "Jan 2, 2006"}}
+            </span>
+        </div>
+    </div>
+    <!--{{ with .Resources.Get "thumbnail.png" }}
+        <img src="{{ .RelPermalink }}" alt="Thumbnail">
+    {{ else }}
+        <img src="{{ "images/thumbnail.jpg" | relURL }}" alt="Thumbnail">
+    {{ end }} -->
+    <div class="blog-post-container markdown">
+        <div>{{.Content}}</div>
+        <!--<div class="toc">{{ .TableOfContents }}</div>-->
+    </div>
+</article>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UE5 on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/ue5/</link>
+    <description>Recent content in UE5 on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jul 2024 09:03:08 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ue5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ariadne&#39;s Thread</title>
+      <link>http://localhost:1313/blog/posetransfer/</link>
+      <pubDate>Sun, 21 Jul 2024 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/posetransfer/</guid>
+      <description>&lt;p&gt;In my Spring and Summer internships at Brunwick&amp;rsquo;s BI (Boating Intelligence) Design Lab, I helped create a futuristic boating simulation to showcase the company&amp;rsquo;s future endeavors at CES 2025.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ariadne&#39;s Thread</title>
+      <link>http://localhost:1313/blog/segmentationedge/</link>
+      <pubDate>Sun, 21 Jul 2024 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/segmentationedge/</guid>
+      <description>&lt;p&gt;In my Spring and Summer internships at Brunwick&amp;rsquo;s BI (Boating Intelligence) Design Lab, I helped create a futuristic boating simulation to showcase the company&amp;rsquo;s future endeavors at CES 2025.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ariadne&#39;s Thread</title>
+      <link>http://localhost:1313/blog/tbdne/</link>
+      <pubDate>Sun, 21 Jul 2024 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/tbdne/</guid>
+      <description>&lt;p&gt;In my Spring and Summer internships at Brunwick&amp;rsquo;s BI (Boating Intelligence) Design Lab, I helped create a futuristic boating simulation to showcase the company&amp;rsquo;s future endeavors at CES 2025.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Brunswick - CES Interactive Simulations</title>
+      <link>http://localhost:1313/blog/ces2025/</link>
+      <pubDate>Sun, 21 Jul 2024 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/ces2025/</guid>
+      <description>&lt;p&gt;In my internship and co-op at Brunwick&amp;rsquo;s BI (Boating Intelligence) Design Lab, I helped create two interactive simulations that showcase the company&amp;rsquo;s future endeavors. Both of these were made using Unreal Engine 5, and will be shown at CES 2025.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lab Echo</title>
+      <link>http://localhost:1313/blog/labecho/</link>
+      <pubDate>Sun, 21 Jul 2024 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/labecho/</guid>
+      <description>&lt;p&gt;In my Spring and Summer internships at Brunwick&amp;rsquo;s BI (Boating Intelligence) Design Lab, I helped create a futuristic boating simulation to showcase the company&amp;rsquo;s future endeavors at CES 2025.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
