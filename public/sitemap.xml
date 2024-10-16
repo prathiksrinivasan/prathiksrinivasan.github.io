@@ -47,11 +47,14 @@
     <loc>http://localhost:1313/tags/c%23/</loc>
     <lastmod>2023-11-19T09:03:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/game-development/</loc>
-    <lastmod>2023-11-19T09:03:08+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/unity/</loc>
     <lastmod>2023-11-19T09:03:08+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/godot/</loc>
+    <lastmod>2023-10-02T09:03:08+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/makeroom/</loc>
+    <lastmod>2023-10-02T09:03:08+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/data-science/</loc>
     <lastmod>2023-06-29T09:03:08+08:00</lastmod>

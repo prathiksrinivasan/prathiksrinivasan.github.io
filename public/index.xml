@@ -23,11 +23,18 @@
       <description>&lt;p&gt;I won first place in the 2XKO community character design contest with my fan-made moveset concept based on the recently reworked Skarner.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Ariadne`s Thread</title>
+      <title>Ariadne`s Blessing</title>
       <link>http://localhost:1313/blog/ariadnesthread/</link>
       <pubDate>Sun, 19 Nov 2023 09:03:08 +0800</pubDate>
       <guid>http://localhost:1313/blog/ariadnesthread/</guid>
       <description>&lt;p&gt;I worked with a as the Programming Lead on a team with 20+ other developers as part of UIUC GameBuilders, creating a procedurally generated horror game over the course of a semester.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Make Room</title>
+      <link>http://localhost:1313/blog/makeroom/</link>
+      <pubDate>Mon, 02 Oct 2023 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/makeroom/</guid>
+      <description>&lt;p&gt;For the Ludum Dare 54 Game Jam, I designed and programmed a soft-body physics puzzle game in 72 Hours.&lt;/p&gt;</description>
     </item>
     <item>
       <title>This [blank] Does Not Exist</title>

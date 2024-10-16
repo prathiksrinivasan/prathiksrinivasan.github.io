@@ -1,9 +1,9 @@
 +++
-title = 'Ariadne`s Thread'
+title = 'Ariadne`s Blessing'
 date = 2023-11-19T09:03:08+08:00
 draft = false
 categories = 'Game Programming'
-tags = ["Unity", "C#", "Game Development"]
+tags = ["Unity", "C#"]
 series = 'headline'
 +++
 
