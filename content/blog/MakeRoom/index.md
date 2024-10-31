@@ -4,6 +4,7 @@ date = 2023-10-02T09:03:08+08:00
 draft = false
 categories = ['Game Programming', 'Game Design']
 tags = ["Godot"]
+series = 'headline'
 +++
 
 
