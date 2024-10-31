@@ -8,7 +8,7 @@ series = 'headline'
 +++
 
 
-I worked with a as the Programming Lead on a team with 20+ other developers as part of UIUC GameBuilders, creating a procedurally generated horror game over the course of a semester.
+I worked as the Programming Lead on a team with 20+ other developers as part of UIUC GameBuilders, creating a procedurally generated horror game over the course of a semester.
 
 <!--more-->
 
