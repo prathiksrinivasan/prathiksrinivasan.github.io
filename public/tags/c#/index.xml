@@ -6,14 +6,21 @@
     <description>Recent content in C# on Prathik Srinivasan Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Nov 2023 09:03:08 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jan 2024 09:03:08 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/c%23/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brunswick - CES 2025 Fliteboard Simulator</title>
+      <link>http://localhost:1313/blog/ces2025fliteboard/</link>
+      <pubDate>Sun, 07 Jan 2024 09:03:08 +0900</pubDate>
+      <guid>http://localhost:1313/blog/ces2025fliteboard/</guid>
+      <description>&lt;p&gt;In my internship and co-op at Brunwick&amp;rsquo;s BI (Boating Intelligence) Design Lab, I helped create two interactive simulations for CES 2025 that showcased the company&amp;rsquo;s future endeavors.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Ariadne`s Blessing</title>
       <link>http://localhost:1313/blog/ariadnesthread/</link>
       <pubDate>Sun, 19 Nov 2023 09:03:08 +0800</pubDate>
       <guid>http://localhost:1313/blog/ariadnesthread/</guid>
-      <description>&lt;p&gt;I worked with a as the Programming Lead on a team with 20+ other developers as part of UIUC GameBuilders, creating a procedurally generated horror game over the course of a semester.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I worked as the Programming Lead on a team with 20+ other developers as part of UIUC GameBuilders, creating a procedurally generated horror game over the course of a semester.&lt;/p&gt;</description>
     </item>
     <item>
       <title>This [blank] Does Not Exist</title>

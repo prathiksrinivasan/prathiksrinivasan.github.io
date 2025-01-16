@@ -6,13 +6,20 @@
     <description>Recent content in Python on Prathik Srinivasan Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jul 2024 09:03:08 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 09:03:08 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Brunswick - CES Interactive Simulations</title>
-      <link>http://localhost:1313/blog/ces2025/</link>
-      <pubDate>Sun, 21 Jul 2024 09:03:08 +0800</pubDate>
-      <guid>http://localhost:1313/blog/ces2025/</guid>
+      <title>Brunswick - CES 2025 Future Helm</title>
+      <link>http://localhost:1313/blog/ces2025futurehelm/</link>
+      <pubDate>Tue, 07 Jan 2025 09:03:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/ces2025futurehelm/</guid>
+      <description>&lt;p&gt;In my internship and co-op at Brunwick&amp;rsquo;s BI (Boating Intelligence) Design Lab, I helped create an immersive simulation to showcase the future of boating at Consumer Electronics Show 2025.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Brunswick - CES 2025 Fliteboard Simulator</title>
+      <link>http://localhost:1313/blog/ces2025fliteboard/</link>
+      <pubDate>Sun, 07 Jan 2024 09:03:08 +0900</pubDate>
+      <guid>http://localhost:1313/blog/ces2025fliteboard/</guid>
       <description>&lt;p&gt;In my internship and co-op at Brunwick&amp;rsquo;s BI (Boating Intelligence) Design Lab, I helped create two interactive simulations for CES 2025 that showcased the company&amp;rsquo;s future endeavors.&lt;/p&gt;</description>
     </item>
     <item>

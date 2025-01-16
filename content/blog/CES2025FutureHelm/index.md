@@ -1,6 +1,6 @@
 +++
-title = 'Brunswick - CES Interactive Simulations'
-date = 2024-07-21T09:03:08+08:00
+title = 'Brunswick - CES 2025 Future Helm'
+date = 2025-01-07T09:03:08+08:00
 draft = false
 categories = 'Game Programming'
 tags = ['Unreal Engine', 'C++', 'Blueprint Scripting','Python']
@@ -9,7 +9,7 @@ series = 'headline'
 
 
 
-In my internship and co-op at Brunwick's BI (Boating Intelligence) Design Lab, I helped create two interactive simulations for CES 2025 that showcased the company's future endeavors.
+In my internship and co-op at Brunwick's BI (Boating Intelligence) Design Lab, I helped create an immersive simulation to showcase the future of boating at Consumer Electronics Show 2025.
 
 <!--more-->
 
@@ -17,9 +17,20 @@ In my internship and co-op at Brunwick's BI (Boating Intelligence) Design Lab, I
 
 I was part of the Computer Graphics team at the BI Design Lab, and our primary task for the spring and summer was to develop an interactive futuristic boating experience using Unreal Engine 5. More specifically, we focused on creating an interactive HMI that would interface with physical boat hardware, and a visualization of the boat's surroundings. The core UI was developed with Epic's CommonUI plugin, and we made use of Unreal Motion Graphics to polish the experience.
 
-My additional project was to create a simulator for a FliteBoard (a personal surfboard-like hydrofoil) that people would be able to interact with. Teaming up with one other intern, we utilized a pose estimation model to calculate the center of gravity and lean angle of players, allowing them to control the movement of a virtual FliteBoard by shifting their body weight. As the sole unreal developer on this project, my responsibilities encompassed the C++ programming, UI design, level design, and fine-tuning mechanics. 
 
-These were my first roles as a developer on a large-scale Unreal Engine project, and it was interesting to learn about the different considerations taken into account for a physical full-scale demonstration as opposed to traditional game development with the engine. 
+{{<youtube vw8PXEdkfyM>}}
+
+
+I also had the opportunity to travel to CES 2025 as an exhibitor for Brunswick, where I helped showcase the simulator to thousands of people, including investors, media, and other members of the industry. Our experience was also featured on a variety of news outlets.
+
+
+https://news3lv.com/news/local/ces-2025-day-1-brunswick-corporation-unveils-boating-intelligence
+
+
+https://robbreport.com/motors/marine/brunswick-ai-powered-simulator-ces-1236144754/
+
+
+This was my first role as a developer on a large-scale Unreal Engine project, and it was interesting to learn about the different considerations taken into account for a physical full-scale demonstration as opposed to traditional game development with the engine. 
 
 ## Responsibilities
 
@@ -29,6 +40,7 @@ These were my first roles as a developer on a large-scale Unreal Engine project,
 - Evaluated new tools for UI design such as the RIVE plugin, reporting performance and compatibility concerns.
 - Prototyped new features and mechanics with C++ and Blueprint scripting, evaluating similarity to real-life physics and intuitivity when integrated with unconventional control schemes
 - Created and managed weekly Windows and Android builds with latest features.
+- Showcased simulator to booth attendees at CES 2025.
 
 ## Skills
 <mark>Unreal Engine 5</mark> 
