@@ -20,7 +20,8 @@ Near the end of my summer internship at Brunswick's BI Design Lab, I was assigne
 As effectively the sole developer for the majority of this project, I had the opportunity to explore both the engineering challenge of developing an experience like this as well as the design challenge of accommodating a flow of people for a bite-sized live experience. I also had the opportuniy to travel to CES, where this project was the standout highlight of the Brunswick booth, with thousands of people trying and loving it.
 
 
-{{youtubetime f6EfMkiondU 765}}
+{{<youtubetime f6EfMkiondU 765>}}
+tech influencers iJustine and Brian Tong made a video about the experience!
 
 
 https://www.thefoilingmagazine.com/just-in/fliteboard-simulator-at-ces-2025/
@@ -30,6 +31,10 @@ On the engineering side, I was able to gain a vast breadth of experience by deve
 
 
 From a design perspective, I essentially had free reign given the basic requirements of the project. The decisions I made had a very subtle impact in terms of complexity, but I personally believe they greatly improved the functionality, robustness, and immersiveness of the experience. For example, I structured the interpretation of the pose estimation's output angles to work well regardless of the player's stance. Coupled with the lack of a 'lose' state, it greatly streamlined the flow of attendees by making the control of the simulator far more intuitive. I also designed other QoL features such as easy timer controls and reset mechanisms that would make facilitating the experience much easier for exhibitors. Some features also were designed for the sake of improving immersiveness, such as a custom radial motion blur at the edges of the screen to give the illusion of speed, and varying engine/wind/water audio volumes based on the player's speed.
+
+
+{{< figure src="foulkes.jpg" title="Brunswick CEO David Foulkes testing out the fliteboard simulator">}}
+
 
 ## Responsibilities
 

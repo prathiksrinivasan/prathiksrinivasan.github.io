@@ -19,6 +19,7 @@ I was part of the Computer Graphics team at the BI Design Lab, and our primary t
 
 
 {{<youtube vw8PXEdkfyM>}}
+A video showcasing our project sequences, both visualization and UI.
 
 
 I also had the opportunity to travel to CES 2025 as an exhibitor for Brunswick, where I helped showcase the simulator to thousands of people, including investors, media, and other members of the industry. Our experience was also featured on a variety of news outlets.
@@ -30,7 +31,12 @@ https://news3lv.com/news/local/ces-2025-day-1-brunswick-corporation-unveils-boat
 https://robbreport.com/motors/marine/brunswick-ai-powered-simulator-ces-1236144754/
 
 
+https://www.news-gazette.com/news/local/science-technology/ui-students-show-off-future-of-boating-technology-at-ces-in-las-vegas/article_1fcc685a-d29c-11ef-8434-3b1d289b8a01.html 
+
+
 This was my first role as a developer on a large-scale Unreal Engine project, and it was interesting to learn about the different considerations taken into account for a physical full-scale demonstration as opposed to traditional game development with the engine. 
+
+{{< figure src="closeUp.jpg" title="Our FutureHelm simulator in action, with the physical boat controls, projector, and tablet screens">}}
 
 ## Responsibilities
 

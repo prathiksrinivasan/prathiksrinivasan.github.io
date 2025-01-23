@@ -68,10 +68,21 @@
 <h2 id="project-overview">Project Overview</h2>
 <p>Near the end of my summer internship at Brunswick&rsquo;s BI Design Lab, I was assigned a new project, to create a proof-of-concept for a hydrofoil simulator to market one of the company&rsquo;s new products, the Fliteboard. Working with one other intern, we created a pose estimation system that would control an Unreal Engine game, similarly to the Xbox kinect. In the fall, I continued my internship as a full-time co-op with Brunswick, where I spent a lot of time polishing up this experience to be used at CES.</p>
 <p>As effectively the sole developer for the majority of this project, I had the opportunity to explore both the engineering challenge of developing an experience like this as well as the design challenge of accommodating a flow of people for a bite-sized live experience. I also had the opportuniy to travel to CES, where this project was the standout highlight of the Brunswick booth, with thousands of people trying and loving it.</p>
-<p>{{youtubetime f6EfMkiondU 765}}</p>
+<p><div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+    <iframe src="http://www.youtube-nocookie.com/embed/f6EfMkiondU?start=765&end="
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+</div>
+tech influencers iJustine and Brian Tong made a video about the experience!</p>
 <p><a href="https://www.thefoilingmagazine.com/just-in/fliteboard-simulator-at-ces-2025/">https://www.thefoilingmagazine.com/just-in/fliteboard-simulator-at-ces-2025/</a></p>
 <p>On the engineering side, I was able to gain a vast breadth of experience by developing this project from start to end, including fine-tuning a pose estimation model, integrating reactive sound, developing unique post-process effects, procedural generation, and interfacing with proprietary hardware. I was also able to leverage some of my work from earlier in the summer, such as the TCP websockets plugin developed for the FutureHelm project.</p>
 <p>From a design perspective, I essentially had free reign given the basic requirements of the project. The decisions I made had a very subtle impact in terms of complexity, but I personally believe they greatly improved the functionality, robustness, and immersiveness of the experience. For example, I structured the interpretation of the pose estimation&rsquo;s output angles to work well regardless of the player&rsquo;s stance. Coupled with the lack of a &rsquo;lose&rsquo; state, it greatly streamlined the flow of attendees by making the control of the simulator far more intuitive. I also designed other QoL features such as easy timer controls and reset mechanisms that would make facilitating the experience much easier for exhibitors. Some features also were designed for the sake of improving immersiveness, such as a custom radial motion blur at the edges of the screen to give the illusion of speed, and varying engine/wind/water audio volumes based on the player&rsquo;s speed.</p>
+<figure>
+    <img src="foulkes.jpg" />
+    <figcaption>
+        Brunswick CEO David Foulkes testing out the fliteboard simulator
+    </figcaption>
+</figure>
+
 <h2 id="responsibilities">Responsibilities</h2>
 <ul>
 <li>Designed and programmed physics and game loop for a first-person eFoil simulator using Blueprints and C++.</li>
