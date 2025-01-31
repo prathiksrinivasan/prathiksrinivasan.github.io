@@ -17,6 +17,9 @@ In my internship and co-op at Brunwick's BI (Boating Intelligence) Design Lab, I
 Near the end of my summer internship at Brunswick's BI Design Lab, I was assigned a new project, to create a proof-of-concept for a hydrofoil simulator to market one of the company's new products, the Fliteboard. Working with one other intern, we created a pose estimation system that would control an Unreal Engine game, similarly to the Xbox kinect. In the fall, I continued my internship as a full-time co-op with Brunswick, where I spent a lot of time polishing up this experience to be used at CES.
 
 
+https://youtu.be/7veJISusywU Here's a 360-degree video of the Fliteboard Simulator in action at CES!
+
+
 As effectively the sole developer for the majority of this project, I had the opportunity to explore both the engineering challenge of developing an experience like this as well as the design challenge of accommodating a flow of people for a bite-sized live experience. I also had the opportuniy to travel to CES, where this project was the standout highlight of the Brunswick booth, with thousands of people trying and loving it.
 
 
